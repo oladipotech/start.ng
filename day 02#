@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>teritories in nigeria</title>
+        <link href="index.css" rel="stylesheet">
+        <meta charset="utf-8">
+        <meta name="description" content="my website">
+        <meta name="author" content="kamil yasir">
+    </head>
+    <body>
+         <h1>STATES IN NIGERIA</h1>
+         <ol>
+          <li>Lagos</li>
+          <li>Oyo</li>
+          <li>Kaduna</li>
+          <li>Ogun</li>
+          <li>Abuja</li>
+         </ol>
+         <h2>STATES AND CAPITAL</h2>
+         <table border="1">
+        <tr>
+            <th>STATES</th>
+            <th>CAPITAL</th>
+        </tr>
+        <tr>
+            <td>Ogun</td>
+            <td>Abeokuta</td>
+        </tr>
+        <tr>
+            <td>Oshun</td>
+            <td>Oshogbo</td>
+        </tr>
+        <tr>
+            <td>Oyo</td>
+            <td>Ibadan</td>
+        </tr>
+        <tr>
+            <td>Plateu</td>
+            <td>Jos</td>
+        </tr>
+        <tr>
+            <td>Lagos</td>
+            <td>Ikeja</td>
+        </tr>
+        <tr>
+            <td>Naija</td>
+            <td>Mina</td>
+        </tr>
+        <tr>
+            <td>Delta</td>
+            <td>Asaba</td>
+        </tr>
+    </table>
+    <p>For more information, please go to the wikipedia <a href="#">page</a></p>
+    </body>
+    </html>
